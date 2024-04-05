@@ -5,29 +5,29 @@
 
 
 ## Key Features:
-Data loading and exploration using pandas.
-Data cleaning to handle missing values, duplicates, and outliers.
-Basic statistical analysis and visualization of Netflix data trends.
-Insights into the distribution of titles by release year, country, and genre.
-Utilization of matplotlib for visualizations and numpy for statistical calculations.
+#### Data loading and exploration using pandas.
+#### Data cleaning to handle missing values, duplicates, and outliers.
+#### Basic statistical analysis and visualization of Netflix data trends.
+#### Insights into the distribution of titles by release year, country, and genre.
+#### Utilization of matplotlib for visualizations and numpy for statistical calculations.
 
 <br/>
 
 ## Steps Taken:
-Data Loading: Loaded the Netflix dataset into a pandas DataFrame.
-Data Exploration: Explored the dataset's structure and content using pandas methods like head(), info(), and describe().
-Data Cleaning: Handled missing values, duplicates, and outliers to ensure data quality.
-Data Analysis: Conducted basic analysis to understand trends and patterns in the Netflix data.
-Visualization: Created visualizations using matplotlib to illustrate data insights effectively.
-Statistical Analysis: Utilized numpy for statistical calculations to support analysis findings.
+#### Data Loading: Loaded the Netflix dataset into a pandas DataFrame.
+#### Data Exploration: Explored the dataset's structure and content using pandas methods like head(), info(), and describe().
+#### Data Cleaning: Handled missing values, duplicates, and outliers to ensure data quality.
+#### Data Analysis: Conducted basic analysis to understand trends and patterns in the Netflix data.
+#### Visualization: Created visualizations using matplotlib to illustrate data insights effectively.
+#### Statistical Analysis: Utilized numpy for statistical calculations to support analysis findings.
 
 <br/>
 
 ## Libraries Used:
-Pandas
-Matplotlib
-NumPy
-Seaborn
+#### Pandas
+#### Matplotlib
+#### NumPy
+#### Seaborn
 
 <br/>
 
